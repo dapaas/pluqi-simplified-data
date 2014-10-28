@@ -1,3 +1,4 @@
 # pluqi-simplified-data
 
-A Grafter transformation to ...
+Some pre-processing steps to simplify the use case data for GUI
+processing.
